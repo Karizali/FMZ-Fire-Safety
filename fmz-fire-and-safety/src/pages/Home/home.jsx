@@ -1,7 +1,11 @@
+import Carousel from "../../components/Carousel/carousel";
 function Home() {
     return (
       <>
-        
+      <Carousel></Carousel>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, sint omnis. Non quisquam eaque ex sapiente, distinctio aut repellendus magnam cum cumque laborum, laboriosam incidunt ullam reprehenderit corrupti mollitia facere ratione ipsam praesentium voluptatem officia quia. Nihil architecto temporibus obcaecati, eaque saepe eos error deleniti. Facere dolor nobis debitis minus quis est rem! Sequi accusantium error assumenda odio facere fuga harum repudiandae omnis. Reprehenderit, nobis voluptatem totam perspiciatis iure voluptatum quas pariatur! Eligendi accusamus quaerat quis aliquam. Culpa, non beatae, consequuntur quidem molestiae id repellendus consequatur ullam debitis temporibus omnis, vero commodi quasi dolore architecto laborum quas blanditiis aliquam distinctio labore sapiente a sunt! Nostrum dolorum explicabo recusandae adipisci quidem iure minus atque minima, sequi iusto numquam quam est tempora impedit excepturi unde amet odit nam expedita dolorem consequatur officia ducimus! Accusantium recusandae sunt autem laboriosam, nam dolorum libero, voluptas itaque iure ut vitae aspernatur ducimus aperiam sint praesentium deserunt velit voluptatum explicabo minus exercitationem nisi quam commodi facere? Quos quasi nobis amet quisquam repellendus, pariatur fugiat ipsum dolor enim exercitationem sapiente placeat commodi nemo ullam numquam ipsam repellat nesciunt totam consectetur tempora ipsa labore. Adipisci, qui facilis impedit recusandae, laudantium ratione optio suscipit quia delectus rem quae aliquam consequuntur ab sed perspiciatis deleniti repudiandae nulla eos corrupti! Nesciunt fuga iste nam ipsam reprehenderit, cum et porro distinctio qui aperiam est harum, labore molestiae aliquid. Molestiae, nam. Deleniti, libero quasi eveniet, alias cupiditate est odit ducimus corporis temporibus corrupti totam repellendus perferendis dolore laboriosam deserunt, eius et adipisci. Obcaecati, atque saepe reiciendis dicta quo nihil inventore distinctio dolor molestias ipsum sint debitis quod voluptate, tenetur necessitatibus adipisci mollitia pariatur soluta praesentium hic eius iure maiores. Nesciunt quaerat dolorem earum debitis suscipit, exercitationem, possimus eius amet odio dolores explicabo provident dolorum maxime quidem necessitatibus ut aperiam rem neque. Cupiditate, nihil vero.
+      </p>
       </>
     );
   }

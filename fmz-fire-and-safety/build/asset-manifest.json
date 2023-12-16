@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d97b81d0.css",
+    "main.js": "/static/js/main.e1fcaa9c.js",
+    "static/js/787.40dd5047.chunk.js": "/static/js/787.40dd5047.chunk.js",
+    "static/media/slider_img3.jpg": "/static/media/slider_img3.7bf17de56094de58e2b8.jpg",
+    "static/media/slider_img2.jpg": "/static/media/slider_img2.abf13f87009d9d094613.jpg",
+    "static/media/slider_img1.jpg": "/static/media/slider_img1.19b96a4b10f2e471453e.jpg",
+    "static/media/FMZ_logo.png": "/static/media/FMZ_logo.7ceb26c2616ab0e6f8da.png",
+    "index.html": "/index.html",
+    "main.d97b81d0.css.map": "/static/css/main.d97b81d0.css.map",
+    "main.e1fcaa9c.js.map": "/static/js/main.e1fcaa9c.js.map",
+    "787.40dd5047.chunk.js.map": "/static/js/787.40dd5047.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d97b81d0.css",
+    "static/js/main.e1fcaa9c.js"
+  ]
+}
